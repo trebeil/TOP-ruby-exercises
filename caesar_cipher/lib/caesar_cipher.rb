@@ -11,5 +11,3 @@ def caesar_cipher(string, shift_factor)
   end
   array.join("")
 end
-
-puts caesar_cipher("What a string!", -1)
